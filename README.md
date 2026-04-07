@@ -12,3 +12,5 @@ There are two notebooks which are part of this session.
 `estimateUncertainty.ipynb`: This notebook looks at several methods for estimating the uncertainty on a metric from a set of data samples and compares them on a set of mystery data whose true parameter value is known.
 
 `mysteryData.npy`: File containing the data accompanying `estimateUncertainty.ipynb`.
+
+`requirements.txt`: File containing the library requirements for this tutorial.
